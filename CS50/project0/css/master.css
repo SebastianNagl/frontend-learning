@@ -1,14 +1,14 @@
 .jumbotron {
-    background: url('../jbbackground.jpeg') center;
-    height: 100%;
+  background: url("../jbbackground.jpeg") center;
+  height: 100%;
 }
 
 .jbtext {
-    color: white;
-    border: 1px solid;
-    padding: 5px;
-    text-align: center;
-    margin-top: 5%;
+  color: white;
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+  margin-top: 5%;
 }
 
 a {
@@ -17,45 +17,55 @@ a {
 }
 
 nav {
-    text-align: center;
-    padding-top: 1%;
+  position: fixed;
+  text-align: center;
+  padding-top: 1%;
 }
 
 .bd-example {
-    height: auto;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4%;
+  height: auto;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
 }
 
 .bd-example img {
-    width: auto;
-    height: 800px;
+  width: auto;
+  height: 700px;
 }
 
 body {
-    background-color: black;
+  background-color: black;
 }
 
 .card {
-    margin: 25% auto;
-    display: flex;
+  margin: 25% auto;
+  display: flex;
 }
 
-.card img{
-    margin: 5px auto;
-    height: auto;
-    width: 280px;
+.card img {
+  margin: 5px auto;
+  height: auto;
+  width: 280px;
 }
 
 .dstext {
-    color: white;
-margin-top: 10%;
+  color: white;
+  margin-top: 10%;
 }
+
 /* header {
-    position:
-    color: white;
-    background-color: black;
-    border-right: 1px solid;
+position:
+color: white;
+background-color: black;
+border-right: 1px solid;
+} */
+@media only screen and (max-width: 400px) {
+  .bd-example img {
+    width: auto;
+    height: 400px;
+  }
 }
+
+/*# sourceMappingURL=master.css.map */
