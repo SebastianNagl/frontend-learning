@@ -1,0 +1,61 @@
+.jumbotron {
+    background: url('../jbbackground.jpeg') center;
+    height: 100%;
+}
+
+.jbtext {
+    color: white;
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+a {
+  padding: 2px 20px;
+  margin-top: 5px;
+}
+
+nav {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.bd-example {
+    height: auto;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+}
+
+.bd-example img {
+    width: auto;
+    height: 800px;
+}
+
+body {
+    background-color: black;
+}
+
+.card {
+    margin: 25% auto;
+    display: flex;
+}
+
+.card img{
+    margin: 5px auto;
+    height: auto;
+    width: 280px;
+}
+
+.dstext {
+    color: white;
+margin-top: 10%;
+}
+/* header {
+    position:
+    color: white;
+    background-color: black;
+    border-right: 1px solid;
+}
