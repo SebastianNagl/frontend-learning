@@ -82,3 +82,33 @@ display:
 
     }
 }
+
+#impressum {
+    margin: 8% auto;
+    color: white;
+
+}
+
+.contact {
+    text-align: center;
+    margin-top: 8%;
+    color: white;
+
+    table {
+        color: white;
+        border: 1px solid;
+        text-align: center;
+        width: 50%;
+        margin-top: 5%;
+        margin-left: auto;
+        margin-right: auto;
+
+        th, td {
+            border: 1px solid;
+        }
+    }
+
+    img {
+        border-radius: 50%;
+    }
+}
