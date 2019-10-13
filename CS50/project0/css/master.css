@@ -1,5 +1,5 @@
 .jumbotron {
-  background: url("../jbbackground.jpeg") center;
+  background: url("../images/jbbackground.jpeg") center;
   height: 100%;
 }
 
@@ -60,6 +60,7 @@ position:
 color: white;
 background-color: black;
 border-right: 1px solid;
+display:
 } */
 @media only screen and (max-width: 400px) {
   .bd-example img {
